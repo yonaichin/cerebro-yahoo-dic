@@ -1,4 +1,4 @@
-#Cerebro Yahoo Dictionary Plugin
+# Cerebro Yahoo Dictionary Plugin
 
 
 ## Example
