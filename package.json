@@ -19,5 +19,9 @@
     "test": "cerebro-scripts test",
     "clear": "cerebro-scripts clear",
     "prepublish": "yarn clear && yarn build"
-  }
+  },
+  "description": "Cerebro Yahoo Dictionary Plugin",
+  "repository": "https://github.com/yonaichin/cerebro-yahoo-dic",
+  "author": "Olly.W <yonaichin@gmail.com>",
+  "license": "MIT"
 }
